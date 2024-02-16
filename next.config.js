@@ -1,6 +1,6 @@
 module.exports = {
     env: {
-        "BASE_URL": "http://localhost:3000",
+        "BASE_URL": "https://solusi-store-8er913g40-bongani-ncubes-projects.vercel.app/",
         "MONGODB_URL": "mongodb+srv://bongani:Nomalanga7@cluster0.vwsixz9.mongodb.net/?retryWrites=true&w=majority",
         "ACCESS_TOKEN_SECRET": "itYdxWDFlfJpXR245cD9LXNqWb9qXUWWxq62M3gldviB4e2fXi",
         "REFRESH_TOKEN_SECRET": "%zyAr[LH-_j1}7>){s=1l&!(Q47_y0~c:ahJEM<WB1->B*&+5MZ2ReU74S%OhdGf0baZlk0qER,K1bqE",
